@@ -4,7 +4,7 @@
 # Why not to use?
 - Extremely vulnerable to SQL injection
   - `mysql_query`
-  - Even without `mysql_real_escape_string`
+  - Without `mysql_real_escape_string`
 - Incomplete server side form checking
 - Unknown exploits
 
