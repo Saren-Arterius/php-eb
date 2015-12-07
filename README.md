@@ -2,6 +2,8 @@
 [r/softwaregore](https://softwaregore.reddit.com) material
 
 # Why not to use?
+- Discontinued
+- Plain-text password embedded in HTML form everywhere
 - Extremely vulnerable to SQL injection
   - `mysql_query`
   - Without `mysql_real_escape_string`
