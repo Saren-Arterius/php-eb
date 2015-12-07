@@ -3,6 +3,7 @@
 
 # Why not to use?
 - Discontinued
+- Spegatti code, nearly impossible to maintain and debug
 - Plain-text password embedded in HTML form everywhere
 - Extremely vulnerable to SQL injection
   - `mysql_query`
