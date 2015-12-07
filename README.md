@@ -1,4 +1,4 @@
-# php-ebs
+# php-eb
 [r/softwaregore](https://softwaregore.reddit.com) material
 
 # Why not to use?
